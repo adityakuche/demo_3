@@ -1,0 +1,50 @@
+Textile Industry
+https://www.textileinfomedia.com/business/mexico/textile-mill
+https://www.listofcompaniesin.com/mexico/textile/
+https://www.dnb.com/business-directory/company-search.html?term=textile&page=1
+https://www.zoominfo.com/top-lists/top-10-companies-from-mfg-consumer-clothes-industry-in-MX-by-revenue
+
+################create new environment
+C:\Python310\Scripts>py -m venv C:\Python310\py3
+path
+
+Activate
+C:\Python310\py3\Scripts>activate
+
+#####################
+#Color threshold opencv
+https://towardsdatascience.com/object-detection-via-color-based-image-segmentation-using-python-e9b7c72f0e11
+
+#good one
+https://machinelearningknowledge.ai/image-segmentation-in-python-opencv/
+
+#https://github.com/mparker2/rio-segment
+
+#https://github.com/HardProxy/seg_unet
+
+####################################
+#excel to shp
+https://hatarilabs.com/ih-en/convert-from-excel-spreadsheet-to-point-shapefile-with-python-pandas-amp-fiona-tutorial
+
+##################
+NDVI
+https://developers.google.com/earth-engine/tutorials/community/modis-ndvi-time-series-animation
+https://geohackweek.github.io/GoogleEarthEngine/06-time-series/
+
+##########################
+mobile exchange
+https://www.youtube.com/watch?v=heknad-23zE
+##########################
+
+Get to known more about the workflow, data research and delivering the data for the Mexico project.
+Can actively participate in learning processes.
+
+#################### soil tiff segmaic segmentation
+https://www.youtube.com/watch?v=XyX5HNuv-xE
+https://www.youtube.com/watch?v=jvZm8REF2KY
+
+#################################
+water detection
+https://towardsdatascience.com/water-detection-in-high-resolution-satellite-images-using-the-waterdetect-python-package-7c5a031e3d16
+https://github.com/cordmaur/WaterDetect
+https://towardsdatascience.com/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-1-52d17e409f09
